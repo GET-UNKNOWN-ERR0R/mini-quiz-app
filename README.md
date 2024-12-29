@@ -29,7 +29,3 @@ Example questions include:
    ```bash
    gcc quiz.c -o quiz -lm
    ./quiz
-
-
-
-
