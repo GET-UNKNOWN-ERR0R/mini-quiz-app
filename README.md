@@ -23,9 +23,11 @@ Example questions include:
    ```bash
    git clone https://github.com/GET-UNKNOWN-ERR0R/mini-quiz-app.git
    cd coding-quiz
+2. Run the code:
+   ```bash  
    ./run.sh
    
-## Manually Compile The Code:
+### Manually Compile The Code:
    ```bash
    gcc quiz.c -o quiz -lm
    ./quiz
