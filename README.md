@@ -22,7 +22,7 @@ Example questions include:
 1. Clone the repository:
    ```bash
    git clone https://github.com/GET-UNKNOWN-ERR0R/mini-quiz-app.git
-   cd coding-quiz
+   cd mini-quiz-app
 2. Run the code:
    ```bash  
    ./run.sh
